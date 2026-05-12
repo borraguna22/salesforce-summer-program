@@ -1,22 +1,20 @@
- 📘 Day 2 Questions and Answers
-
-## 1️⃣ What is an App in Salesforce?
+📘 Day 2 Questions and Answers
+1️⃣ What is an App in Salesforce?
 
 An App in Salesforce is a collection of:
-- Tabs
-- Objects
-- Features
-- Tools
+
+Tabs
+Objects
+Features
+Tools
 
 that work together for a specific business purpose.
 
-### Example
-- Sales App
-- Service App
-- Marketing App
-
-### Simple Understanding
-```text
+Example
+Sales App
+Service App
+Marketing App
+Simple Understanding
 App = Complete workspace for users
 2️⃣ What is an Object?
 
